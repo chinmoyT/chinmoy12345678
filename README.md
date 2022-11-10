@@ -1,7 +1,7 @@
 - 👋 Bonjour, I’m Chinmoy 
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate to collaborate for backend projects.
+- 💞️ I’m looking to collaborate for backend projects.
 
 
 <!---
